@@ -1,4 +1,4 @@
-#Calculadora Básica em JavaScript
+# Calculadora Básica em JavaScript
 
 Calculadora simples feita em HTML, CSS e JavaScript puro.
 
